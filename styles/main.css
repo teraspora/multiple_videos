@@ -15,3 +15,7 @@ html, body, * {
     border: 1px solid #333;
     margin: 1vw auto;
 }
+
+iframe {
+    border-radius: 10px;
+}
