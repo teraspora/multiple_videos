@@ -1,0 +1,17 @@
+html, body, * {
+    background-color: #000;
+    margin: 0 auto;
+    text-align: center;
+    overflow: hidden;
+    font-family: 'Courier New', Courier, monospace;
+}
+#main {
+    display: grid;
+    width: 95vw;
+    height: 95vh;
+    gap: 0.2vw;
+    justify-items: stretch;
+    align-items: stretch;
+    border: 1px solid #333;
+    margin: 1vw auto;
+}
